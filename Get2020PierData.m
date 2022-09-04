@@ -4,6 +4,8 @@ function pier=Get2020PierData(date_start,date_end)
 %pier record.  Path is hardcoded here; better practice would be to pass in
 %a path. But I'll leave that to you!
 %
+%ALB-comment: If the nc file is not too big (i.e., few Mb). It could also leave
+%inside the github repo. 
 %MHA SIO211a
 %8/3/2022
 
